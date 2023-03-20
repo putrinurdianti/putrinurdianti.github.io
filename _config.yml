@@ -1,29 +1,13 @@
-title: <p align="center"> Rindy Rafida </p>
-
-logo: "/images/logo.jpg?raw=true"
-
-description:
-  <p align="center">
-  <a href="pdf/CV RINDY RAFIDA.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/rindy-rafida/">LinkedIn</a> |
-  <a href="https://github.com/Rindy39">GitHub</a>
-  </p>
-  
-  <p align="justify">
-  I study Statistics at Institut Teknologi Sepuluh Nopember. 
+title: Rindy Rafida # your name (or website title) here
+logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+   I study Statistics at Institut Teknologi Sepuluh Nopember. 
   <br><br>
   Currently, I desire to develop my skills to become a professional statistician. With the abilities that I already have, I will try to give my best wherever my dedication and development are.
   <br><br>
-  </p>
+  <a href="pdf/CV RINDY RAFIDA.pdf">Resume</a> 
+  <a href="https://www.linkedin.com/in/rindy-rafida/">LinkedIn</a> 
+  <a href="https://github.com/Rindy39">Github</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-145578661-1 # Google Analytics tracking ID
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Conta
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
