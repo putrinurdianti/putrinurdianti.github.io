@@ -8,4 +8,4 @@ My team completed the implementation of final assignments and projects in Microd
 
 This project aims to carry out clustering based on the open and close prices of each stock which will later be grouped into 5 clusters with cluster 1 indicating high open and close prices, and so on.
 
-<center><img src="images/nlp.png"/></center>
+<center><img src="images/PORTFOLIO 1 (KMEANS).PNG"/></center>
