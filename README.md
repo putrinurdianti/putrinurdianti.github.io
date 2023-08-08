@@ -16,6 +16,6 @@ My team completed the implementation of final assignments and projects in Data A
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Rindy39/Zeniusproject/tree/main)
 
-This project aims to carry out identification of Qualified Potential Borrowers By understanding the factors that influence default or late payment, companies can use predictive models to carry out better risk assessments on potential borrowers.
+This project aims to carry out identification of Qualified Potential Borrowers By understanding the factors that influence default or late payment, companies can use predictive models to carry out better risk assessments on potential borrowers
 
 <center><img src="images/Portofolio Confusion Matrix.PNG"/></center>
