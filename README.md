@@ -49,5 +49,3 @@ This is one of my projects in Data Analytics By Zenius Education 2023.
 This dashboard shows covid information from around the world based on each country.  Including positive cases to death due to covid.
 
 <center><img src="images/Dashboard Covid.png"/></center>
-
-<center><img src="images/Portfolio HousePrices.png"/></center>
