@@ -39,3 +39,13 @@ This is one of my projects in Data Analytics By Zenius Education 2023.
 This notebook contains the project that I did, which displays EDA (exploratory data analysis), regression modeling, predictions, and evaluation of House Prices data.
 
 <center><img src="images/Portfolio HousePrices.png"/></center>
+
+## Worldwide COVID-19 Situation Dashboard
+
+This is one of my projects in Data Analytics By Zenius Education 2023.
+
+[![View on Looker](https://img.shields.io/badge/Looker-View_on_Looker-green?logo=Looker](https://lookerstudio.google.com/reporting/587e69fc-204a-4ae2-857a-d7ab53ede3cd)
+
+This dashboard shows covid information from around the world based on each country.  Including positive cases to death due to covid.
+
+<center><img src="images/Dashboard Covid.png"/></center>
