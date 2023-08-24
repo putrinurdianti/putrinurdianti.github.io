@@ -38,6 +38,8 @@ This is one of my projects in Data Analytics By Zenius Education 2023.
 
 This notebook contains the project that I did, which displays EDA (exploratory data analysis), regression modeling, predictions, and evaluation of House Prices data.
 
+<center><img src="images/Portfolio HousePrices.png"/></center>
+
 ## Worldwide COVID-19 Situation Dashboard
 
 This is one of my projects in Data Analytics By Zenius Education 2023.
