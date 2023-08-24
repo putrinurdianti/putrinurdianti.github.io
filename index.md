@@ -10,6 +10,8 @@ This project aims to carry out clustering based on the open and close prices of 
 
 <center><img src="images/PORTFOLIO 1 (KMEANS).PNG"/></center>
 
+---
+
 ## Home Credit Risk Scoring Analysis
 
 My team completed the implementation of final assignments and projects in Data Analytics By Zenius Education 2023.
@@ -19,6 +21,8 @@ My team completed the implementation of final assignments and projects in Data A
 This project aims to carry out the identification of Qualified Potential Borrowers By understanding the factors that influence default or late payment, companies can use predictive models to carry out better risk assessments on potential borrowers
 
 <center><img src="images/Portofolio Confusion Matrix.PNG"/></center>
+
+---
 
 ## Clustering Model of Mall Customer Segmentation
 
@@ -30,6 +34,8 @@ This project contains clustering modeling and evaluation of Mall Customer Segmen
 
 <center><img src="images/Portfolio MallCustomer.png"/></center>
 
+---
+
 ## Regression Model of House Prices
 
 This is one of my projects in Data Analytics By Zenius Education 2023.
@@ -39,6 +45,8 @@ This is one of my projects in Data Analytics By Zenius Education 2023.
 This notebook contains the project that I did, which displays EDA (exploratory data analysis), regression modeling, predictions, and evaluation of House Prices data.
 
 <center><img src="images/Portfolio HousePrices.png"/></center>
+
+---
 
 ## Worldwide COVID-19 Situation Dashboard
 
