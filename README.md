@@ -9,5 +9,4 @@ Employee promotion prediction using random forest classification with SMOTE-NC.
 This project aims to identify which candidates are worth promoting based on several attributes in the form of past and current performances and demographics. 
 
 <center><img src="roc employee promotion.png"/></center>
-<center><img src="confusion matrix employee promotion.png"/></center>
 <center><img src="promoted prediction.png"/></center>
