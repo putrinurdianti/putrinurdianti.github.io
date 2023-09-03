@@ -1,13 +1,11 @@
 # PORTFOLIO
 ---
-## EMPLOYEE PROMOTION PREDICTION
+## EMPLOYEE PROMOTION RECOMMENDATION PREDICTION USING RANDOM FOREST CLASSIFICATION WITH SMOTE-NC
 
-Employee promotion prediction using random forest classification with SMOTE-NC.
+[![View on GitHub](GitHub-logo1.png)](https://github.com/putrinurdianti/employee_promotion_recommendation_prediction)
+[![View on Slides](gslides1.png)](https://docs.google.com/presentation/d/1j3ZKoYccuqNorLleTpSnSP4914O_tiiNqOobVd4Wags/edit?usp=sharing)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/putrinurdianti/employee_promotion_prediction)
-
-This project aims to identify which candidates are worth promoting based on several attributes in the form of past and current performances and demographics. 
+This project aims to identify which candidates are worth to be recommended for promotion based on several attributes in the form of past and current performances and demographics.
 
 <center><img src="roc employee promotion.png"/></center>
-<center><img src="confusion matrix employee promotion.png"/></center>
-<center><img src="promoted prediction.png"/></center>
+<center><img src="pred.png"/></center>
