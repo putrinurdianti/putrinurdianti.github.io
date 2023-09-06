@@ -14,6 +14,7 @@ This project aims to identify which candidates are worth to be recommended for p
 
 [![View on GitHub](GitHub-logo1.png)](coffee quality clustering.R)
 
+
 This project aims to categorize the quality of coffee from several countries based on sensory evaluations such as aroma, flavor, after taste, acidity, body (viscosity), and balance.
 
 <center><img src="Cluster Plot.png"/></center>
