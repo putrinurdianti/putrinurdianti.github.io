@@ -9,7 +9,7 @@ This project aims to identify which candidates are worth to be recommended for p
 
 <center><img src="roc employee promotion.png"/></center>
 <center><img src="pred.png"/></center>
---------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## COFFEE QUALITY CLUSTERING USING PARTITIONING AROUND METHOD (PAM)
 
 [![View on GitHub](GitHub-logo1.png)](coffee quality clustering.R)
