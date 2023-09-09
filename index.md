@@ -18,3 +18,14 @@ This project aims to identify which candidates are worth to be recommended for p
 This project aims to clustered coffee from several countries based on their quality. The sensory evaluations including aroma, flavor, after taste, acidity, body (viscosity), and balance are used as the indicators for coffee quality.
 
 <center><img src="Cluster Plot.png"/></center>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## COST-EFFECTIVENESS OF EMPLOYEE PAYROLL SCHEME
+
+[![View on Looker](looker-studio-wordmark-1.png)](https://lookerstudio.google.com/s/jVafZKg3zM4)
+
+This project aims to determine whether company's current employee payroll scheme is reasonably effective according to the employee's working hours.
+
+<center><img src="Cost Effectiveness Employee Payroll Scheme.png"/></center>
+
+
