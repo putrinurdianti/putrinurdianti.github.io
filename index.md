@@ -13,8 +13,8 @@ This project aims to identify which candidates are worth to be recommended for p
 ## COFFEE QUALITY CLUSTERING USING PARTITIONING AROUND METHOD (PAM)
 
 [![View on GitHub](GitHub-logo1.png)](https://github.com/putrinurdianti/coffee_quality_clustering/blob/main/coffee%20quality%20clustering.R)
+[![View on Slides](gslides1.png)](https://docs.google.com/presentation/d/1W4O0TTy444kP3EiDzhERhnlUNJlv8JyJkvhMrwojabI/edit?usp=sharing)
 
-
-This project aims to categorize the quality of coffee from several countries based on sensory evaluations such as aroma, flavor, after taste, acidity, body (viscosity), and balance.
+This project aims to clustered coffee from several countries based on their quality. The sensory evaluations including aroma, flavor, after taste, acidity, body (viscosity), and balance are used as the indicators for coffee quality.
 
 <center><img src="Cluster Plot.png"/></center>
